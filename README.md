@@ -29,5 +29,8 @@ git clone https://github.com/chekau/projects.git
    
 cd projects
 
+3. Запустите приложение
+python entry_point.py
+
 
   Спасибо за использование **Библиотеки**! Если у вас есть вопросы или предложения, не стесняйтесь обращаться.
