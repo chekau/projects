@@ -30,6 +30,7 @@ git clone https://github.com/chekau/projects.git
 cd projects
 
 3. Запустите приложение
+
 python entry_point.py
 
 
